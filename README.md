@@ -5,7 +5,7 @@ game where players aim and shoot at moving tomato targets within a limited time 
 The player accumulates points by successfully hitting the tomato targets, aiming to achieve 
 the highest score possible before the timer runs out.
 <h3> Game Mechanics</h3>
-<br>• Starting the Game: The game begins when the page loads or when the player clicks 
+• Starting the Game: The game begins when the page loads or when the player clicks 
 the restart button. 
 <br>• Target Movement: Tomatoes are created at random positions within the game 
 container and move to new random positions every second. 
